@@ -70,3 +70,11 @@ p {
 img {
   border-radius: 15px;
 }
+
+.attribution {
+  align-self: flex-end;
+  height: 20px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
